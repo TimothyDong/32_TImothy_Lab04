@@ -1,0 +1,24 @@
+Unit Testing
+
+1) What is Unit Testing?
+- Unit Testing is a type of software testing where individual units or components of a software are
+tested to validate that each unit of the software code performs as expected.
+
+2) Unit Testing is conducted by who?
+- Developers conduct the unit testing
+
+3)Is it blackbox or whitebox testing?
+- Whitebox testing
+
+Intergration Testing
+
+1) What is Intergration Testing?
+-  is the phase in software testing in which individual software modules are combined and tested as a 
+group. Integration testing is conducted to evaluate the compliance of a system or component with 
+specified functional requirements
+
+2)Intergration Testing is conducted by who?
+- Testers conduct the intergration testing
+
+3)Is it whitebox or blackbox testing?
+- Blackbox testing
